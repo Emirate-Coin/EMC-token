@@ -1,0 +1,11 @@
+{
+  "name": "Emirate Coin",
+  "website": "https://emiratecoin.org",
+  "description": "Emirate Coin (EMC) is a BEP-20 token for digital travel, tourism, and transport payments, built on the BNB Smart Chain.",
+  "explorer": "https://bscscan.com/token/0xbE37d1220dF91F988314c83c7eD19FED1Cd2b6c4",
+  "type": "BEP20",
+  "symbol": "EMC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xbE37d1220dF91F988314c83c7eD19FED1Cd2b6c4"
+}
